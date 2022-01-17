@@ -1,1 +1,1 @@
-# Patika-dev-Web-Tasarim-Odev
+# Patika-Dev-Web-Tasarim-Odev.
